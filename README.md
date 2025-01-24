@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Prafful!
 
 <!-- Profile Header with Banner -->
-<img src="![image](https://github.com/user-attachments/assets/4d9ef00d-2a92-41fd-985f-5acb7c277b1a)" alt="Banner that says Welcome to Prafful's GitHub Profile" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHsRJCa-45H1w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731240227470?e=1743033600&v=beta&t=BwQ4uQWk-QhCOX6T8_pRowbja8_at1tvRqepyQlYy8A" alt="Banner that says Welcome to Prafful's GitHub Profile" width="100%" />
 
 
 **Data Enthusiast | Problem Solver | Open to Collaborations**
